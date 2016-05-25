@@ -5,9 +5,9 @@
     <body>
     <? php
         $string=file_get_contents("articles.json");
-        $faggit=json_decode($string, true);
-        $stephan=$faggit['articles'];
-        for($stephan as $wauw){
+        $text=json_decode($string, true);
+        $article=$text['articles'];
+        for($text as $wauw){
             echo $wauw['name']." ".$wauw['article'];
         }
     ?>
