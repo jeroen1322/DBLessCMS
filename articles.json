@@ -1,10 +1,10 @@
 "articles":[
     {
         "name" : "Jeroen",
-        "article" : "Dit is mijn prachtige artikel. Oh wauw wat is het toch mooi. PS: Stephan is een faggot."
+        "article" : "Dit is mijn prachtige artikel. Oh wauw wat is het toch mooi. PS: Dit is een test."
     },
     {
         "name" : "Stephan",
-        "article" : "Hoi. Ik ben Stephan."
+        "article" : "Hoi."
     }
 ]
