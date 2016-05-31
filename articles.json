@@ -1,10 +1,10 @@
-"articles":[
+[
     {
-        "name" : "Jeroen",
-        "article" : "Dit is mijn prachtige artikel. Oh wauw wat is het toch mooi. PS: Dit is een test."
+        "name" : "Jeroen Grooten",
+        "article" : "This is a test. If you can read this, welcome to my Database-less Content Management System. The text you are reading right now is written in article.json, parsed through json_decode and written to the page in PHP."
     },
     {
-        "name" : "Stephan",
-        "article" : "Hoi."
+        "name" : "Jeroen Grooten",
+        "article" : "This is my second 'article'. This article is also stored in articles.json."
     }
 ]
