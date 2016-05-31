@@ -35,7 +35,7 @@
     <div id="background">
         <?php
             foreach($json as $i){
-                echo "<div id='article'><h1>".$i['name'].":</h1>"."<i>".date('d.m.Y')."</i><p>".$i['article']."</p><hr><br></div>";
+                echo "<div id='article'><h1>".$i['name'].":</h1>"."<i>".date('d.m.Y')." [THIS DATE IS NOT CORRECT, it is for demonstration pupuses.]</i><p>".$i['article']."</p><hr><br></div>";
             }
         ?>
     </div>
