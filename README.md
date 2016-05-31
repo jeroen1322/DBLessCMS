@@ -1,5 +1,8 @@
 # DBLessCMS
-Is a little script I wanted to make. It takes JSON data and displays it through PHP. 
-It is NOT finished yet, but I'll finish it when I have the time. 
+Takes JSON data to display "articles". I started this 'project' when I started learning PHP but never finished it. 
+But I had some spare time and wanted to fix it. Now it works! 
 
+First the PHP gets content of 'articles.json'. Then it will use json_decode to get the JSON data and convert it to an array.
+Thhen the array will be displayed in an "article format". 
 
+It is really simple, but it was fun.
