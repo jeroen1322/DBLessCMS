@@ -6,5 +6,9 @@
     {
         "name" : "Jeroen Grooten",
         "article" : "This is my second 'article'. This article is also stored in articles.json."
+    },
+    {
+        "name" : "Jeroen Grooten",
+        "article" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse metus metus, condimentum non porta nec, pulvinar sed orci. Suspendisse vestibulum malesuada sapien eu efficitur. Proin libero leo, semper sed aliquet eu, aliquet quis orci. Nulla facilisi. Integer eu ornare elit. Sed sed aliquam arcu. Nullam felis nulla, tempus ut purus in, eleifend volutpat nulla. Vestibulum quis semper orci. Donec rhoncus non justo eget auctor. Phasellus erat felis, venenatis eu fermentum nec, viverra et augue. Vivamus elementum odio ac nulla vehicula varius. Vestibulum facilisis bibendum felis vel laoreet. In feugiat ligula quis maximus ullamcorper. Quisque finibus imperdiet risus nec luctus. Ut justo nunc, sodales vitae lectus vel, finibus porta purus. Vestibulum consequat sagittis neque nec semper. Vestibulum volutpat eu diam sed ultricies. Integer ornare lacus nec nisl laoreet, eu maximus dolor posuere. Praesent augue orci, pretium et iaculis eget, tempus ac dui. Fusce sed orci tincidunt, varius odio at, pharetra dolor. Praesent quis convallis eros. Praesent magna neque, pellentesque non tellus non, eleifend consequat ante."
     }
 ]
