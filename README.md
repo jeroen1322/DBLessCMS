@@ -6,3 +6,10 @@ First the PHP gets content of 'articles.json'. Then it will use json_decode to g
 Then the array will be displayed in an "article format". 
 
 It is really simple, but it was fun to finish something that I started a long time ago.
+
+
+#TODO
+_I'll develop the project a little furter._
+
+-Make it possible to add articles 
+-Change JSON structure 
