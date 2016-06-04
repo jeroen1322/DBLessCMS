@@ -9,7 +9,8 @@ It is really simple, but it was fun to finish something that I started a long ti
 
 
 #TODO
-_I'll develop the project a little furter._
+_I decided develop the project a little furter._
 
 -Make it possible to add articles 
+
 -Change JSON structure 
